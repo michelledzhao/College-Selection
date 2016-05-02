@@ -9,6 +9,6 @@ public interface Basic {
 	public void setPrice(double p);
 	
 	public String getBrand();
-	public void setBrand();
+	public void setBrand(String b);
 
 }
